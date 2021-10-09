@@ -1,6 +1,13 @@
 # Math
 
 ```bash
+
+sudo apt update
+sudo apt upgrade
+
+sudo apt install texlive-lang-cjk xdvik-ja evince
+
+sudo apt install texlive-fonts-recommended texlive-fonts-extra
 #hoge.texファイルのある場所まで移動する。
 
 # dviファイル生成
